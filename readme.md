@@ -1,0 +1,1 @@
+python3 detector_tharunharirajan.py iscp_pii_dataset.csv
